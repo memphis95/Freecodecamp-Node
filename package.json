@@ -4,6 +4,7 @@
 	"description": "freeCodeCamp backend with Node certification course",
 	"keywords": ["freecodecamp","certification", "practice", "assignment", "basics"],
 	"license": "MIT",
+	"version": "1.0.0",
 
 	"dependencies": {
 		"express": "^4.14.0"
